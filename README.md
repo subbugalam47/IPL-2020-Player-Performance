@@ -19,14 +19,16 @@ Datasets :)
 
 What i have Done? :)
 
-created new features like team1 and team2 from datasets given 
+created new features like " team1 " and " team2 " from datasets given 
+
 from these created features i derived another feature " team " for every individual player 
-also wrangled another feature called Season for every match 
+
+also wrangled another feature called " Season " for every match 
 
 
 sucessfully implimented Pipeline with following models
 
-applied different mechine learning models:
+applied different mechine learning models :
 
 LineaarRegression
 
