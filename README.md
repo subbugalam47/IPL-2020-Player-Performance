@@ -4,7 +4,7 @@ Predicting the performance score of each player in IPL 2020, where i have done d
 
 Fantasy sports in this age of technology has been a closely connected part of every particular sport community. This time we are trying to predict the player performance index of each player who participated in IPL 2020 using the delivery-by-delivery data of each ball bowled since IPL 2008 till IPL 2019
 
-data
+Datasets
 
 "Training.csv" : File Containing various performance stats of a player in a match
 
