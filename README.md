@@ -7,7 +7,11 @@ Fantasy sports in this age of technology has been a closely connected part of ev
 data
 
 "Training.csv" : File Containing various performance stats of a player in a match
+
 "Matches IPL 2020.csv" : Schedule of matches that occrued in IPL 2020
+
 "IPL 2020 Squads.csv" : Squads of each participating club/team in IPL 2020
+
 "Matches IPL 2008-2019.csv" : Schedule of matches that occrued in IPL 2020
+
 "sample_submission.csv" : Sample file. The submission file should be in this format and structure only with the values changed with those predicted ones. Please note that the player names in this file are lexographically order and this order has to be maintained in the submission file also.
